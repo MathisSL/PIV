@@ -138,6 +138,15 @@ https://pivlab.blogspot.com/ -> Beaucoup de documentation et tutos
 https://youtu.be/OZ6AKMA7zFY?si=AXmaHDIn1C-699RG
 https://youtu.be/sz5YCi6Cz20?si=Fq9buvXCkTVgUrec
 
+Au lieu d'afficher image par image, on peut flouter un peu les images et faire une moyenne sur par exemple 5 images afin d'avoir le tracé des particles, ce qui nous permet d'observer les déplacements
+
+![piv_average_frame](https://github.com/user-attachments/assets/16aa8f2e-0415-450f-a9dc-3c435272fbb7)
+
+Ensuite faire la corrélation croisé afin d'obtenir les vecteurs de vitesse
+
+![img_velocity_vector](https://github.com/user-attachments/assets/4e4ac5c4-7e90-40bc-8d62-2ac4ed3a7167)
+
+
 
 
 
