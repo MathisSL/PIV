@@ -108,12 +108,14 @@ intensif des données.
 
 ## Outils pour la PIV trouvé après recherches
 ### Python
-- OpenPIV :
+- OpenPIV : -> Permet d'utiliser le GPU pour calculs plus rapide
 https://openpiv.readthedocs.io/en/latest/src/piv_basics.html
+
 https://github.com/OpenPIV/openpiv-python-gpu
 
 - tractrac :
 https://github.com/jorishey1234/tractrac
+
 https://perso.univ-rennes1.fr/joris.heyman/PDF/tractrac_final.pdf -> Article
 
 - trackpy
@@ -122,7 +124,9 @@ http://soft-matter.github.io/trackpy/v0.6.4/tutorial/walkthrough.html
 ### MATLAB
 - PIVLab
 https://fr.mathworks.com/matlabcentral/fileexchange/27659-pivlab-particle-image-velocimetry-piv-tool-with-gui
+
 https://pivlab.blogspot.com/ -> Beaucoup de documentation et tutos
+
 - OpenPIV
 
 ## Ressources pour l'apprentissage
