@@ -114,7 +114,7 @@ https://openpiv.readthedocs.io/en/latest/src/piv_basics.html
 
 https://github.com/OpenPIV/openpiv-python-gpu
 
-- tractrac :
+- TracTrac :
 
 https://github.com/jorishey1234/tractrac
 
