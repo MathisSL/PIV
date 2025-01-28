@@ -147,6 +147,19 @@ Ensuite faire la corrélation croisé afin d'obtenir les vecteurs de vitesse
 ![img_velocity_vector](https://github.com/user-attachments/assets/4e4ac5c4-7e90-40bc-8d62-2ac4ed3a7167)
 
 
+![IMG_0370](https://github.com/user-attachments/assets/f72595e2-c657-49b2-a9a1-a51bf5e6e7f2)
+![IMG_0369](https://github.com/user-attachments/assets/f174935c-927b-49de-af1a-34f76f31dde4)
+![IMG_0368](https://github.com/user-attachments/assets/ce4111d5-3e08-4215-826c-dff390a63878)
+![IMG_0365](https://github.com/user-attachments/assets/3b2ffac6-8f35-4e76-ae9a-4c8540e2ca3b)
+![IMG_0363](https://github.com/user-attachments/assets/6cd85a7b-65ae-41fb-a91b-0bda3a3fb180)
+![IMG_0362](https://github.com/user-attachments/assets/9c5927d5-1ac4-46b4-ad0c-29462953476d)
+![IMG_0364](https://github.com/user-attachments/assets/06b6f4fa-4bcd-4afa-b041-4a19f7e59316)
+![IMG_0361](https://github.com/user-attachments/assets/eb54ae65-fe88-4be0-870e-2235dc1eed92)
+![IMG_0358](https://github.com/user-attachments/assets/2a84fcec-85a1-4740-8671-420b4d97d3c1)
+![IMG_0366](https://github.com/user-attachments/assets/503bfde9-d4e9-417c-a8e6-56436d09a931)
+![IMG_0360](https://github.com/user-attachments/assets/85d04544-61ec-43f3-86b1-d5269e2a1a4d)
+![IMG_0357](https://github.com/user-attachments/assets/658151eb-ef56-4768-9d16-611092c351e7)
+![IMG_0356](https://github.com/user-attachments/assets/a212adbb-1489-44fc-88d0-4f611c2b8ece)
 
 
 
