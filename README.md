@@ -134,6 +134,10 @@ https://fr.mathworks.com/matlabcentral/fileexchange/27659-pivlab-particle-image-
 
 https://pivlab.blogspot.com/ -> Beaucoup de documentation et tutos
 
+- Openopticalflow_piv
+
+https://openresearchsoftware.metajnl.com/articles/10.5334/jors.326 -> article / hybride crosscorr et optical flow
+
 - OpenPIV
 
 ## Ressources pour l'apprentissage
