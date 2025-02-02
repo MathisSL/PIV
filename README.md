@@ -175,9 +175,7 @@ Ensuite faire la corrélation croisé afin d'obtenir les vecteurs de vitesse
 
 # Introduction au flow optique avec l'algorithme de Lucas-Kanade
 
-![of1](https://github.com/user-attachments/assets/9130cbb5-ccdf-4d35-aa26-35474f85b499)
-![of2](https://github.com/user-attachments/assets/e85f9f40-2a42-4124-a6f0-aeef52203a9e)
-![of3](https://github.com/user-attachments/assets/55e9aea9-86b0-47db-9768-80c7e094ec15)
-
-
+![of1](https://github.com/user-attachments/assets/80836053-1b67-4601-96e2-c11aee11396d)
+![of2](https://github.com/user-attachments/assets/46f24d33-b9a4-45de-9e5c-5ef11511deca)
+![of3](https://github.com/user-attachments/assets/092fb70a-46e2-4536-9ab5-67aef597d599)
 
